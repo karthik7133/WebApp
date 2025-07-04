@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+}
+
+.hero {
+  background: #333 url("https://via.placeholder.com/1400x400") no-repeat center/cover;
+  color: white;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+}
+
+.featured {
+  padding: 30px 20px;
+  background: white;
+}
+
+.car-list {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.how-it-works {
+  background: #eee;
+  padding: 20px;
+}
+
+.how-it-works ul {
+  list-style: none;
+  padding: 0;
+}
+
