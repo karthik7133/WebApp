@@ -1,0 +1,11 @@
+.car-details-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:column ;
+    gap: 20px;
+    padding: 30px;
+    background-color: #f8f8f8;
+  }
+  
+  
+  

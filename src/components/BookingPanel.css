@@ -1,0 +1,25 @@
+.booking-panel {
+    flex: 1;
+    min-width: 250px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }
+  
+  .booking-panel button {
+    padding: 10px 20px;
+    background-color: #00bcd4;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 1rem;
+  }
+  
+  .booking-panel button:hover {
+    background-color: #0192a4;
+  }
+  

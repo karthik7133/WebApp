@@ -1,0 +1,19 @@
+.car-info {
+    flex: 1;
+    min-width: 300px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  
+  .specs, .features {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 10px;
+  }
+  
+  .specs li, .features li {
+    margin: 8px 0;
+  }
+  
